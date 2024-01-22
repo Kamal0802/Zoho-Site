@@ -1,0 +1,52 @@
+i {
+    font-size: 2rem;
+}
+
+
+li:hover {
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: transform 0.1s ease-in;
+
+}
+
+video {
+    transform: scale(1.1);
+
+}
+
+
+.card img {
+    width: 50%;
+    height: 50%;
+    border-radius: 20px;
+}
+
+.card{
+    height: 200px;
+}
+
+
+
+
+.navi {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+}
+
+
+
+
+img:hover,
+button:hover {
+    transform: scale(1.1);
+    transition: transform 1s ease;
+    cursor: pointer;
+}
