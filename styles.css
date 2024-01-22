@@ -15,6 +15,9 @@ video {
 
 }
 
+body{
+    overflow-x: hidden;
+}
 
 .card img {
     width: 50%;
