@@ -20,9 +20,9 @@ body{
 }
 
 .card img {
-    width: 50%;
-    height: 50%;
-    border-radius: 20px;
+    width: 70%;
+    height: 40%;
+    border-radius: 10px;
 }
 
 .card{
